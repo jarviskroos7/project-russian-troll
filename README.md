@@ -1,2 +1,2 @@
-# Project-Hate-Speech
-This is the 'hate speech' project for DSS sp19
+# Project-russian-troll
+This is the 'russian troll twitter analysis' project for DSS sp19
